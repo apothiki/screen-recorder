@@ -1,0 +1,268 @@
+<mxfile host="app.diagrams.net" modified="2024-03-30T12:35:04.588Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="WvT8pcUtkeIyBbrmuL0U" version="21.7.5" type="device">
+  <diagram name="Page-1" id="abqiX2c9cXwZMIPDOUqO">
+    <mxGraphModel dx="2758" dy="1256" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="laiYlUydH7xfyF_gZYZi-1" value="ScreenManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-727" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-2" value="ScreenChooser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-3" value="ScreenRecorder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-579" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-4" value="Filesystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-727" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-5" value="FileChooser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-579" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-6" value="UserSetting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-727" y="323" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-7" value="AppSetting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-727" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-8" value="AppManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-571" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-20" target="laiYlUydH7xfyF_gZYZi-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-22" target="laiYlUydH7xfyF_gZYZi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-11" target="laiYlUydH7xfyF_gZYZi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-11" value="ScreenRecorder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="848" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-12" value="Filesystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="567" y="911" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-14" value="UserSetting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="578" y="727" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Start recording&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13" y="723" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-23" value="FilenameGenerator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="571" y="814" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-25" value="Get filename" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="417" y="837" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-26" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-11" target="laiYlUydH7xfyF_gZYZi-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="878" as="sourcePoint" />
+            <mxPoint x="527" y="931" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-20" value="touch and start writing to file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="891" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-27" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-11" target="laiYlUydH7xfyF_gZYZi-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="334" y="878" as="sourcePoint" />
+            <mxPoint x="544" y="754" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-22" value="Get destination folder" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="385" y="777" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stop recording&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13" y="1002" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-29" target="laiYlUydH7xfyF_gZYZi-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-29" value="ScreenRecorder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-30" value="Filesystem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="517" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-33" value="Flush data and close file" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="352" y="1075" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-34" value="ScreenFinder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="144" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-35" value="FilenameGenerator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="239" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;List screens&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-806" y="723" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-37" value="ScreenManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-518" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-39" value="FileChooser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-555" y="1244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-40" value="AppSetting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="142" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-65" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-41" target="laiYlUydH7xfyF_gZYZi-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-76" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-41" target="laiYlUydH7xfyF_gZYZi-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-41" value="AppManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="201" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-42" target="laiYlUydH7xfyF_gZYZi-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-42" value="ScreenFinder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-321" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-44" value="List screens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-644" y="774" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-49" target="laiYlUydH7xfyF_gZYZi-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-49" value="ScreenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="785" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-51" value="ScreenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-425" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-52" value="UserSettingAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-724" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-53" target="laiYlUydH7xfyF_gZYZi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-53" value="RecorderAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="848" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-55" target="laiYlUydH7xfyF_gZYZi-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-55" value="RecordingAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="69" y="1075" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-57" value="RecorderAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-571" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-59" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Start app&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13" y="91" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-62" target="laiYlUydH7xfyF_gZYZi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-62" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="69" y="185" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-64" value="Start app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="180" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-66" value="Load setting" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="271" y="142" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-67" value="UserSetting" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="216" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-68" target="laiYlUydH7xfyF_gZYZi-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-68" target="laiYlUydH7xfyF_gZYZi-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-68" value="Has user setting?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="132" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-70" value="no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="467" y="147" width="31" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-72" value="yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="444" y="222" width="37" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-73" value="ScreenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="297" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-74" value="RecorderAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="559" y="336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-75" value="UserSettingAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="378" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-79" value="Init apis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312" y="255" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-80" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Close app&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="13" y="361" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-82" target="laiYlUydH7xfyF_gZYZi-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-82" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="77" y="446" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-83" value="AppManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="446" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-84" value="Close app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="82" y="430" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-86" value="RecorderStatus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-724" y="574" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-87" value="AppStatus" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-571" y="574" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-88" value="AppAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-278" y="487" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-90" value="List" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-432" y="767" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-95" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Select screen&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-806" y="916" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-96" value="ScreenManager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-518" y="978" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-98" target="laiYlUydH7xfyF_gZYZi-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-98" value="ScreenChooser" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-317" y="978" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-101" value="List screens" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-644" y="967" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-103" target="laiYlUydH7xfyF_gZYZi-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-103" value="ScreenAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="978" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-105" value="Set" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-431" y="974" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-106" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Update output directory&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-806" y="1174" width="228" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="laiYlUydH7xfyF_gZYZi-107" target="laiYlUydH7xfyF_gZYZi-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-107" value="UserSettingAPI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="1244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-109" value="Set directory" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="1220" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="laiYlUydH7xfyF_gZYZi-110" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Components&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-806" y="91" width="142" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
