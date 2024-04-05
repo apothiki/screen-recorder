@@ -21,7 +21,13 @@
       "@main*": ["src/main*"],
       "@lib*": ["src/lib*"],
       "@*": ["src/renderer*"]
-    }
+    },
+
+    /* Transpile namespace imports to default imports */
+    "esModuleInterop": true
   },
-  "include": ["node_modules/vite/client.d.ts", "**/*"]
+  "include": ["node_modules/vite/client.d.ts", "**/*"],
+  "parseOptions": {
+    "project": "./tsconfig.json"
+  }
 }
